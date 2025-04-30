@@ -2,7 +2,7 @@
 In this project, I built a car price prediction model using Linear Regression and a Neural Network. The goal was to develop a system that can predict the price of a car based on various features such as enginetype, stroke, cardoor, wheelbase among many bother.
 
 ## 📊 Dataset
-  - Source: [Include the link or description]
+  - Source: [Car Price Dataset](https://github.com/Mbashaliee/Car_price_prediction/blob/main/CarPrice_Assignment.csv)
   - Features include car model, year, mileage, fuel type, transmission, etc.
 
 ## 🚀 Models Used
