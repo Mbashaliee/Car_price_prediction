@@ -6,8 +6,8 @@ In this project, I built a car price prediction model using Linear Regression an
   - Features include car model, year, mileage, fuel type, transmission, etc.
 
 ## 🚀 Models Used
-  1. Linear regression
-  2. Neural Network
+  1. Linear regression - LR
+  2. Neural Network - NN
  
 ## 📈 Results
   - R² Score: 89.26% for Linear Regresion and 88.57% for Neural Network
